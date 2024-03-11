@@ -1,6 +1,6 @@
-package blog.service;
+package org.akun.blog.service;
 
-import blog.domain.Comments;
+import org.akun.blog.domain.Comments;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

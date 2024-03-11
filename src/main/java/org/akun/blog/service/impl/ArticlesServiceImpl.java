@@ -1,9 +1,9 @@
-package blog.service.impl;
+package org.akun.blog.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import blog.domain.Articles;
-import blog.service.ArticlesService;
-import blog.mapper.ArticlesMapper;
+import org.akun.blog.domain.Articles;
+import org.akun.blog.service.ArticlesService;
+import org.akun.blog.mapper.ArticlesMapper;
 import org.springframework.stereotype.Service;
 
 /**
